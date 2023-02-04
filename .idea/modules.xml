@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/smart-read-prototyping.iml" filepath="$PROJECT_DIR$/.idea/smart-read-prototyping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/smart-read-prototypes.iml" filepath="$PROJECT_DIR$/.idea/smart-read-prototypes.iml" />
     </modules>
   </component>
 </project>
